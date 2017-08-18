@@ -2,7 +2,6 @@
 
 
 [[projects]]
-  branch = "master"
   name = "github.com/ChinmayR/PackageD"
   packages = ["."]
   revision = "cbb14c1543da7ce61e4f54cc7715ce49f85a122f"
@@ -10,6 +9,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "ef208f0889925a77ab88af06e901023b002ad3d88928a5aa086a99c4f015dc6d"
+  inputs-digest = "abb22c0fe0cc65e533b4b9aed3268b89974c27673d312900a4bfaecd28c4e830"
   solver-name = "gps-cdcl"
   solver-version = 1

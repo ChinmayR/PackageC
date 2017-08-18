@@ -22,5 +22,5 @@
 
 
 [[constraint]]
-  branch = "master"
+  revision = "cbb14c1543da7ce61e4f54cc7715ce49f85a122f"
   name = "github.com/ChinmayR/PackageD"
