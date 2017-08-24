@@ -1,0 +1,3 @@
+package: github.com/ChinmayR/PackageC
+import:
+- package: github.com/ChinmayR/PackageD
