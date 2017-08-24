@@ -1,3 +1,4 @@
 package: github.com/ChinmayR/PackageC
 import:
 - package: github.com/ChinmayR/PackageD
+  version: 94ea3ee3568c0f72141c89433f0b852574130f15
